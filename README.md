@@ -1,7 +1,6 @@
 <!-- Card -->
-
-[![maruo-t Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruo-t)](https://github.com/anuraghazra/github-readme-stats)
-[![maruo-t GitHub stats](https://github-readme-stats.vercel.app/api?username=maruo-t)](https://github.com/anuraghazra/github-readme-stats)
+[![maruo-t GitHub stats](https://github-readme-stats.vercel.app/api?username=maruo-t&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![maruo-t Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=maruo-t&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **maruo-t/maruo-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
