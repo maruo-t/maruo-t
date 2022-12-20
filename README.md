@@ -1,4 +1,4 @@
-## Status Cards
+## Stats Cards
 <!-- Card -->
 [![maruo-t GitHub stats](https://github-readme-stats.vercel.app/api?username=maruo-t&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![maruo-t Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=maruo-t)](https://github.com/anuraghazra/github-readme-stats)
