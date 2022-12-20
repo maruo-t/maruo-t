@@ -73,7 +73,8 @@
 
 
 ### Other
-![my-profile-views](https://komarev.com/ghpvc/?username=ssabcire&color=green)
+![my-profile-views](https://komarev.com/ghpvc/?username=maruo-t
+&color=green)
 
 <!--
 **maruo-t/maruo-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
