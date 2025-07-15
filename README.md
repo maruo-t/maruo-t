@@ -1,8 +1,8 @@
 ## Stats Cards
 <!-- Card -->
 
-[![maruo-t GitHub stats](https://github-readme-stats-ruddy-six-22.vercel.app/api?username=maruo-t&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![maruo-t Top Langs](https://github-readme-stats-ruddy-six-22.vercel.app/api/top-langs?username=maruo-t)](https://github.com/anuraghazra/github-readme-stats)
+![maruo-t's GitHub stats](https://github-readme-stats-ruddy-six-22.vercel.app/api?username=maruo-t&count_private=true) 
+![maruo-t's GitHub stats](https://github-readme-stats-ruddy-six-22.vercel.app/api/top-langs?username=maruo-t&size_weight=0.5) 
 
 ## 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=maruo-t)](https://github.com/ryo-ma/github-profile-trophy)
