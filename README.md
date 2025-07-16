@@ -2,10 +2,10 @@
 <!-- Card -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-ruddy-six-22.vercel.app/api?username=maruo-t&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats-ruddy-six-22.vercel.app/api?username=maruo-t&count_private=true&exclude_repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-ruddy-six-22.vercel.app/api/top-langs?username=maruo-t&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-ruddy-six-22.vercel.app/api/top-langs?username=maruo-t&layout=compact&langs_count=8&card_width=320&exclude_repo=github-readme-stats" />
 </a>
 
 ## 🏆 Github Profile Trophy
